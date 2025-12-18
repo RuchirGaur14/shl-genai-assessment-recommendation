@@ -63,3 +63,4 @@ Run Frontend
 
 streamlit run frontend/app.py
 
+IMP*** NEED TO RUN BACKNED LOCALLY FOR THE APP TO WORK.
